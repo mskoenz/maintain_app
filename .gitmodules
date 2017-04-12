@@ -1,0 +1,3 @@
+[submodule "maintain_core"]
+	path = maintain_core
+	url = git@github.com:mskoenz/maintain_core.git
